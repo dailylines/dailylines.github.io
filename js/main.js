@@ -83,23 +83,6 @@ $(document).ready(function(){
 
 
 
-	//Testimonials slider initialization
-	$("#tslider").owlCarousel({
-		items : 1,
-		navigation : true,
-		pagination : false,
-		slideSpeed : 300,
-		paginationSpeed : 400,
-		singleItem: true,
-		responsive: true,
-		autoPlay : true,
-		transitionStyle : "fade"
-	});
-
-
-
-
-
 
 
 	//Mailchimp subscription form initialization
